@@ -1,0 +1,10 @@
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\bin\Debug\sistemazedococo.exe.config
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\bin\Debug\sistemazedococo.exe
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\bin\Debug\sistemazedococo.pdb
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\obj\Debug\sistemazedococo.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\obj\Debug\sistemazedococo.Inicio.resources
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\obj\Debug\sistemazedococo.Properties.Resources.resources
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\obj\Debug\sistemazedococo.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\obj\Debug\sistemazedococo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\obj\Debug\sistemazedococo.exe
+C:\Users\Pichau\Desktop\projetos\sistemazedococo\sistemazedococo\obj\Debug\sistemazedococo.pdb
